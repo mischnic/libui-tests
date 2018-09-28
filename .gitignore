@@ -4,3 +4,6 @@ test_area_resize
 test_grid
 test_matrix
 test_seperator
+opengl/opengl
+png/test
+*.o
