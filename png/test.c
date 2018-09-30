@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "ui.h"
-#include "picopng.h"
+#include "lodepng.h"
 
 static uiTableModelHandler mh;
 
